@@ -1,4 +1,1 @@
-# MADE BY SHELBY 
-# JOIN .gg/hackersop
-
 # PASTE TOKENS IN shelby.txt FILE THEN RUN THE PROGRAM 
